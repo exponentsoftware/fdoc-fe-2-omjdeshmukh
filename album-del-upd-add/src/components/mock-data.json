@@ -1,0 +1,42 @@
+ [
+  {
+    "id": 1,
+    "artist": "Kishore Kumar",
+    "album": "Mr.X In Bombay",
+    "image": "https://picsum.photos/400",
+    "title": "Mere Mehboob Qayamat Hogi",
+    "song": "https://youtu.be/OyrfNNL7gao"
+  },
+  {
+    "id": 2,
+    "artist": "Rishi Kapur",
+    "album": "Deewana",
+    "image": "https://picsum.photos/401",
+    "title": "Sochenge tumhe pyar",
+    "song": "https://youtu.be/lFdSi01tpYM"
+  },
+  {
+    "id": 3,
+    "artist": "Mannara, Karanvir",
+    "album": "Zid",
+    "image": "https://picsum.photos/402",
+    "title": "Tu Zaroori ",
+    "song": "https://youtu.be/oNA5wTiNmS8"
+  },
+  {
+    "id": 4,
+    "artist": "K.K. ",
+    "album": "The Train",
+    "image": "https://picsum.photos/403",
+    "title": "Beete Lamhe",
+    "song": "https://youtu.be/UlacMvx_VYk"
+  },
+  {
+    "id": 5,
+    "artist": "Akshaye Khanna & Urvashi Sharma",
+    "album": "Naqaab",
+    "image": "https://picsum.photos/404",
+    "title": "Ek Din Teri Raahon Mein",
+    "song": "https://youtu.be/8Fz2GXx9Qsw"
+  }
+]
